@@ -1,0 +1,86 @@
+export const metaData = [
+    {
+        id: 'PYTHON-META',
+        title: 'Integrations Solution experts for enterprise software | Top rated software development company | Get end-to-end solution for Product Development, SaaS Design and Development, Payment Gateway Solutions, AI/ML solutions, Chatbots and UI/UX.',
+        description: 'Hire Python developers and coders on hourly or contract basis | Get custom Python & Chatbot development',
+        keywords: 'python development services, python consulting, python developer usa, python coders for hire, hire python coder, python developers, python programer, python coders, top python developers, hire a coder online, hire django developer, python web development company, chatbot development company, outsourcing for python development, outsource python development, outsource contractors for python development, python developers in india, python developers in usa, remote python developers in usa, top rated, top rated upwork agency, top rated python developer in upwork, top rated python agency',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'DJANGO-META',
+        title: 'Top rated Django development agency  - V2STech Solutions Pvt Ltd',
+        description: 'Hire Django developers and coders on hourly or contract basis | Get custom Django & Chatbot development',
+        keywords: 'django development, django development services, django developer for hire, top rated django developer, top rated in upwork, top django developer, python development services, python consulting, python developer usa, python coders for hire, hire python coder, python developers, python programer, python coders, top python developers, hire a coder online, hire django developer, python web development company, chatbot development company, outsourcing for python development, outsourcing for django development, outsource python development, outsource django development, outsource contractors for python development, python developers in india, django developers in india, python developers in usa, remote python developers in usa.',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'JAVA-META',
+        title: 'Java development outsourcing - V2STech Solutions Pvt Ltd',
+        description: '',
+        keywords: '',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'REACTPAGE-META',
+        title: 'React development outsourcing  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP',
+        keywords: 'react, react developer, react software, build app in react',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'REACTNATIVE-META',
+        title: 'React development outsourcing  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP',
+        keywords: 'react, react developer, react software, build app in react',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'NODEJS-META',
+        title: 'NodeJS development outsourcing  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP',
+        keywords: 'react, react developer, react software, build app in react',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'IONIC-META',
+        title: 'Hybrid cross platform mobile app development  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform mobile apps for Android & iOS with single code base.',
+        keywords: 'mobile app, mobile app developer, MVP, mobile app MVP, mobile app design, mobile app coder, mobile app agency, mobile app company, mobile app design, android, android app, android mobile app, ios, ios app, ios app designer, hybrid app, hybrid app development, build a mobile app, hire mobile app developer',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: 'MAGENTO-META',
+        title: 'Magento E-commerce development - V2STech Solutions Pvt Ltd',
+        description: 'Build e-commerce website with shopping cart using Magento framework.',
+        keywords: 'magento, magento development, magento e-commerce website, build e-commerce website, online shopping website, shopping cart in website, e-commerce web design, e-commerce web development, create shopping site, create shopping website',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: "ANDROIDIOSMOBILEAPP_META",
+        title: 'Android & iOS mobile app design & development  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform mobile apps for Android & iOS.',
+        keywords: 'mobile app, mobile app developer, MVP, mobile app MVP, mobile app design, mobile app coder, mobile app agency, mobile app company, mobile app design, android, android app, android mobile app, ios, ios app, ios app designer, hybrid app, hybrid app development, build a mobile app, hire mobile app developer',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: "ANGULARCLOJURE_META",
+        title: 'Angluar & Clojure custom software development  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP and dashboards',
+        keywords: 'angular, angular development, design app using angular, angular front end development, angular designer',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    /*PORTFOLIO PAGE*/
+    {
+        id: "PORTFOLIOPAGE_META",
+        title: 'Portfolio  - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP and dashboards',
+        keywords: 'portfolio, projects, top rated upwork agency, top rated upwork developer, SaaS designer, SaaS developer, full stack development, outsourcing agency, outsourcing IT firm ',
+        thumbnail: 'https://v2stech.com/logo192.png',
+    },
+    {
+        id: "EDUCATION_META",
+        title: 'Education - V2STech Solutions Pvt Ltd',
+        description: 'Build blazing fast cross platform apps, SaaS, MVP and dashboards',
+        keywords: 'angular, angular development, design app using angular, angular front end development, angular designer',
+    }
+]

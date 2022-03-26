@@ -1,0 +1,47 @@
+// GOOGLE FONT
+@font-face {
+    font-family: "ProximaNova-Bold";
+    src: url("../assets/fonts/ProximaNova-Bold.eot");
+    src: url("../assets/fonts/ProximaNova-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../assets/fonts/ProximaNova-Bold.svg#ProximaNova-Bold") format("svg"),
+        url("../assets/fonts/ProximaNova-Bold.ttf") format("truetype"), url("../assets/fonts/ProximaNova-Bold.woff") format("woff"),
+        url("../assets/fonts/ProximaNova-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+// FONT :: SET
+$font: "Lato", "sans-serif", "ProximaNova-Bold";
+$heading-Font: "ProximaNova-Bold", "sans-serif";
+$para-Font: "Lato", "sans-serif", "ProximaNova-Bold";
+$bgdark-white: #ffffff;
+$font-color: #274584;
+$icon-color: #767676;
+$bg-black: #ffffff;
+$color-gold: #b6907e;
+$margin0: 0px;
+$padding0: 0px;
+$border0: 0px;
+$inherit-line: inherit;
+$list-none: none;
+$text-decoration-none: none;
+$border-box: border-box;
+$no-outline: none;
+$realtive: relative;
+$absolute: absolute;
+$w100: 100%;
+$vertical-align-m: middle;
+$vertical-align-t: top;
+$vertical-align-b: bottom;
+
+$blank: "";
+$display-block: block;
+$display-inline-block: inline-block;
+$display-none: none;
+$clear-both: both;
+$container-width-1400: 1160px;
+$margin-auto: 0px auto;
+$dark: #274584;
+$light: #efefef;
+$color: #b3e5fc;
